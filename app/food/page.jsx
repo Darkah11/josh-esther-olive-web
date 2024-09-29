@@ -1,0 +1,11 @@
+import Header from '@/components/Header'
+import Tab from '@/components/Tab'
+
+export default function Food() {
+  return (
+    <div>
+        <Header />
+        <Tab />
+    </div>
+  )
+}
